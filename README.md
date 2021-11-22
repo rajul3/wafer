@@ -103,6 +103,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Avnish327030/wafer_circleci.git
 git push -u origin main
+git push origin master --force
+https://stackoverflow.com/questions/28429819/rejected-master-master-fetch-first
 ```
 
 ## create a account at circle ci
